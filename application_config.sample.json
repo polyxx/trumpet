@@ -1,0 +1,6 @@
+{
+  "instance_url": "instance url",
+  "api_version": "v1",
+  "redirect_uri": "urn:ietf:wg:oauth:2.0:oob",
+  "scope": "read write follow"
+}

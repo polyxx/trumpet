@@ -1,0 +1,21 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Node packages
+node_modules/
+
+# Dist files
+dist/*
+!dist/.keep
+
+# Lib files
+lib/
+
+# Credential files
+application_config.json
+client_config.json
+.credentials/
+
+# Logs
+*.log
